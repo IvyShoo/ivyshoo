@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,19,&height=120&section=header&text=Hi!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=160&section=header&text=Hi!&fontSize=50)
 
 ```yaml
 name: Ivana
@@ -27,9 +27,11 @@ hobbies: [
     "Dogs",
 ]
 ```
+<p>‎</p>
+<p>‎</p>
+
 
 <p align="center">        
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>
@@ -42,22 +44,21 @@ hobbies: [
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" width="35" height="35"/>
-
 </p>
 
+
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/ivana-%C5%A1upljika-7583b82b9/">
     <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
-  
-  <a href="https://dribbble.com/IvyShoo">
+    <a href="https://dribbble.com/IvyShoo">
     <img height="45" src="https://github.com/user-attachments/assets/b458e2ae-c3c3-43d3-82f3-c51a349729da"/>
   </a>
-  
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,19,&height=120&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=120&section=footer)
+
+
 
 <!--
 ## Hi there 👋
