@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,4,19,4,16&height=120&section=header&text=Hi%20there&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,4,19,4,16&height=120&section=header&text=Hi!&fontSize=50)
 
 
-<p align="center">  
-  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"/>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/ivana-%C5%A1upljika-7583b82b9/">
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
+  
   <a href="https://dribbble.com/IvyShoo">
     <img height="45" src="https://github.com/user-attachments/assets/b458e2ae-c3c3-43d3-82f3-c51a349729da"/>
   </a>
+  
 </p>
 
 
