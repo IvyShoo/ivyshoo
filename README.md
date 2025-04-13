@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,4,19,4,16&height=120&section=header&text=Hi!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,19,&height=120&section=header&text=Hi!&fontSize=50)
 
 
 <p align="center">
@@ -59,7 +59,7 @@ hobbies: [
 
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,4,19,4,16&height=120&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,19,&height=120&section=footer)
 
 <!--
 ## Hi there 👋
