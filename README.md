@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19&height=120&section=header)
 
-<p>
-    
-  [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/IvyShoo)
-  
-</p>
-
 ```yaml
 name: Ivana
 located_in: Croatia -> Netherlands
